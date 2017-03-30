@@ -1,36 +1,4 @@
 # macLibrary
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Radio CKUT Mail with screen readers
- 
- 
-More 
-1 of many
- 
-git files for DML apps and Folder Action
-Inbox
-	x
-Matthew Dorfman
-	
-Attachments18:29 (16 minutes ago)
-	
-to me, Matthew
-4 Attachments
-Boomerang for Gmail - Schedule your Messages
-	
-Click here to Reply, Reply to all or Forward
-8.08 GB (26%) of 30 GB used
-Manage
-Programme Policies
-Powered by
-Google
-Last account activity: 11 minutes ago
-Details
-	
-	
-
 The entire Add to Digital Music Library software suite consists of 2 applications and 1 folder action .workflow.
 
 The applications are set as the default applications for all iTunes compatible sound files, and for PDF files. Their purpose is to prompt users as to whether they with to import files to the Digital Music Library, or open the files normally. Depending on the user’s input the applications open the files with the application of the user’s choosing, or move the files to /Users/library/Music/iTunes/Add to Digital Music Library.
@@ -124,6 +92,3 @@ on run {input, parameters}
 	return input
 end run
 }
-
-READ ME.txt
-Displaying READ ME.txt.
